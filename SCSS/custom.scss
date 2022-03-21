@@ -1,0 +1,16 @@
+.index-section {
+	margin: 200px 0;
+}
+
+#info {
+    p {
+        text-align: justify;
+    }
+}
+
+#founder {
+    .card:hover {
+    	cursor: pointer;
+        background-color: #F8F9FA;
+    }
+}
